@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Han Logo" src="https://raw.githubusercontent.com/na-wu/project-han/master/images/han.png" 
+  <img alt="Han Logo" src="https://raw.githubusercontent.com/na-wu/project-han/master/images/logo.png" 
   width="100" />
 </p>
 <h1 align="center">
