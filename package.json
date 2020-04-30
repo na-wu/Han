@@ -1,0 +1,35 @@
+{
+    "name": "han-vscode",
+    "displayName": "Han Theme",
+    "description": "A dark theme extension for VS Code dedicated to someone very special",
+    "publisher": "nathanwu",
+    "icon": "images/logo.png",
+    "author": {
+    "name": "Nathan Wu",
+    "email": "nwu1018@gmail.com"
+  },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Han",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Han-color-theme.json"
+            }
+        ]
+    },
+    "devDependencies": {
+        "@upstatement/prettier-config": "^0.3.0",
+        "babel-eslint": "^10.0.3",
+        "eslint": "^6.3.0",
+        "eslint-config-prettier": "^6.2.0",
+        "prettier": "^1.18.2",
+        "vsce": "^1.66.0"
+    }
+}
