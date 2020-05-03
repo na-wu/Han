@@ -35,6 +35,6 @@
 | ![#F4C3C2](https://via.placeholder.com/12/F4C3C2/F4C3C2) `#F4C3C2` | Status bar text, buttons, etc              |
 | ![#eaecf0](https://via.placeholder.com/12/eaecf0/eaecf0) `#eaecf0` | Active text, anything that should be white |
 | ![#F4C3C2](https://via.placeholder.com/12/F4C3C2/F4C3C2) `#F4C3C2` | Accent, list tree titles, badges, etc      |
-| ![#95ff00](https://via.placeholder.com/12/95ff00/95ff00) `#95ff00` | Addition highlights                        |
+| ![#70ba00](https://via.placeholder.com/12/70ba00/70ba00) `#70ba00` | Addition highlights                        |
 | ![#f0767e](https://via.placeholder.com/12/f0767e/f0767e) `#f0767e` | Deletion highlights, errors, warnings      |
 | ![#ffb92c](https://via.placeholder.com/12/ffb92c/ffb92c) `#ffb92c` | Modified highlights                        |

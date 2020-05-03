@@ -179,7 +179,7 @@
     "editorOverviewRuler.wordHighlightForeground": "#F4C3C2",
     "editorOverviewRuler.wordHighlightStrongForeground": "#F4C3C2",
     "editorOverviewRuler.modifiedForeground": "#ffb92c",
-    "editorOverviewRuler.addedForeground": "#95ff00",
+    "editorOverviewRuler.addedForeground": "#70ba00",
     "editorOverviewRuler.deletedForeground": "#f0767e",
     "editorOverviewRuler.errorForeground": "#f0767e",
     "editorOverviewRuler.warningForeground": "#ffd580",
@@ -199,12 +199,12 @@
     // Editor Gutter
     "editorGutter.background": "#16242F",
     "editorGutter.modifiedBackground": "#ffb92c",
-    "editorGutter.addedBackground": "#95ff00",
+    "editorGutter.addedBackground": "#70ba00",
     "editorGutter.deletedBackground": "#f0767e",
 
     // Diff Editor colors
-    "diffEditor.insertedTextBackground": "#95ff0022",
-    "diffEditor.insertedTextBorder": "#95ff0044",
+    "diffEditor.insertedTextBackground": "#70ba0022",
+    "diffEditor.insertedTextBorder": "#70ba0044",
     "diffEditor.removedTextBackground": "#f0767e22",
     "diffEditor.removedTextBorder": "#f0767e44",
     "diffEditor.border": "#46588070",
@@ -217,8 +217,8 @@
     "editorSuggestWidget.foreground": "#eaecf0",
     "editorSuggestWidget.highlightForeground": "#F4C3C2",
     "editorSuggestWidget.selectedBackground": "#16242F",
-    "editorHoverWidget.background": "#46588070",
-    "editorHoverWidget.border": "#46588070",
+    "editorHoverWidget.background": "#465880",
+    "editorHoverWidget.border": "#465880",
     "debugExceptionWidget.background": "#46588070",
     "debugExceptionWidget.border": "#46588070",
     "editorMarkerNavigation.background": "#46588070",
@@ -245,13 +245,13 @@
     // Merge Conflicts
     "merge.currentHeaderBackground": "#5ccfe677",
     "merge.currentContentBackground": "#5ccfe622",
-    "merge.incomingHeaderBackground": "#95ff0077",
-    "merge.incomingContentBackground": "#95ff0022",
+    "merge.incomingHeaderBackground": "#70ba0077",
+    "merge.incomingContentBackground": "#70ba0022",
     "merge.border": "#F4C3C2",
     "merge.commonHeaderBackground": "#46588077",
     "merge.commonContentBackground": "#46588055",
     "editorOverviewRuler.currentContentForeground": "#5ccfe6",
-    "editorOverviewRuler.incomingContentForeground": "#95ff00",
+    "editorOverviewRuler.incomingContentForeground": "#70ba00",
     "editorOverviewRuler.commonContentForeground": "#46588070",
 
     // Panel colors
@@ -319,14 +319,14 @@
     "terminal.ansiBlue": "#5ccfe6",
     "terminal.ansiBrightBlue": "#5ccfe6",
     "terminal.ansiBrightCyan": "#5ccfe6",
-    "terminal.ansiBrightGreen": "#95ff00",
+    "terminal.ansiBrightGreen": "#70ba00",
     "terminal.ansiBrightBlack": "#444a5e",
     "terminal.ansiBrightMagenta": "#c3a6ff",
     "terminal.ansiBrightRed": "#f0767e",
     "terminal.ansiBrightWhite": "#a2aabc",
     "terminal.ansiBrightYellow": "#F4C3C2",
     "terminal.ansiCyan": "#5ccfe6",
-    "terminal.ansiGreen": "#95ff00",
+    "terminal.ansiGreen": "#70ba00",
     "terminal.ansiMagenta": "#c3a6ff",
     "terminal.ansiRed": "#f0767e",
     "terminal.ansiWhite": "#a2aabc",
@@ -347,7 +347,7 @@
     // Git colors
     "gitDecoration.modifiedResourceForeground": "#ffb92c",
     "gitDecoration.deletedResourceForeground": "#f0767e",
-    "gitDecoration.untrackedResourceForeground": "#95ff00",
+    "gitDecoration.untrackedResourceForeground": "#70ba00",
     "gitDecoration.ignoredResourceForeground": "#F4C3C277",
     "gitDecoration.conflictingResourceForeground": "#f0767e",
 
@@ -551,7 +551,7 @@
         "entity.name.import.go"
       ],
       "settings": {
-        "foreground": "#95ff00"
+        "foreground": "#70ba00"
       }
     },
     {
@@ -675,7 +675,7 @@
       "name": "Inserted",
       "scope": ["markup.inserted"],
       "settings": {
-        "foreground": "#95ff00"
+        "foreground": "#70ba00"
       }
     },
     {
@@ -696,14 +696,14 @@
       "name": "Regular Expressions",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#95ff00"
+        "foreground": "#70ba00"
       }
     },
     {
       "name": "Escape Characters",
       "scope": ["constant.character.escape"],
       "settings": {
-        "foreground": "#95ff00"
+        "foreground": "#70ba00"
       }
     },
     {
@@ -906,7 +906,7 @@
         "punctuation.definition.heading.markdown"
       ],
       "settings": {
-        "foreground": "#95ff00"
+        "foreground": "#70ba00"
       }
     },
     {
