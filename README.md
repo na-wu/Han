@@ -10,13 +10,13 @@
 </p>
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=nathanwu.han-vscode">
-    <img alt="Version" src="https://vsmarketplacebadge.apphb.com/version/nathanwu.han-vscode.svg" />
+    <img alt="Version" src="https://vsmarketplacebadge.apphb.com/version/nathanwu.han-vscode.svg?style=for-the-badge&labelColor=16242F&color=0d1118&logo=visual-studio-code&logoColor=F4C3C2&logoWidth=20" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=nathanwu.han-vscode">
-    <img alt="Downloads" src="https://vsmarketplacebadge.apphb.com/downloads/nathanwu.han-vscode.svg" />
+    <img alt="Downloads" src="https://vsmarketplacebadge.apphb.com/downloads/nathanwu.han-vscode.svg?style=for-the-badge&labelColor=16242F&color=0d1118&logo=visual-studio-code&logoColor=F4C3C2&logoWidth=20" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=nathanwu.han-vscode">
-    <img alt="Installs" src="https://vsmarketplacebadge.apphb.com/installs/nathanwu.han-vscode.svg" />
+    <img alt="Rating" src="https://vsmarketplacebadge.apphb.com/rating-star/nathanwu.han-vscode.svg?style=for-the-badge&labelColor=16242F&color=0d1118&logo=visual-studio-code&logoColor=F4C3C2&logoWidth=20" />
   </a>
 </p>
 
@@ -62,3 +62,5 @@
 
 [Visual Studio Code Marketplace Badges](https://vsmarketplacebadge.apphb.com/)
 
+## Plug
+ <a href="https://www.instagram.com/na.wu/"><img src="https://img.shields.io/badge/Instagram-na.wu-blue.svg?style=for-the-badge&labelColor=16242F&color=0d1118&logo=instagram&logoColor=F4C3C2&logoWidth=20"/></a>
