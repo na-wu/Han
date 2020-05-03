@@ -22,6 +22,14 @@
 
 <p>  <h1 align="center">Project&#12300; 한 &#12301; (Work In Progress)</h1> </p>
 
+## Installation
+
+1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
+2. Search for `Han`
+3. Click **Install** to install it
+4. Click **Reload** to reload the editor
+5. Code > Preferences > Color Theme > **Han** (or Ctrl/⌘ + K > Ctrl/⌘ + T > **Han**)
+
 ## Colors
 
 ### UI Colors
@@ -38,3 +46,19 @@
 | ![#70ba00](https://via.placeholder.com/12/70ba00/70ba00) `#70ba00` | Addition highlights                        |
 | ![#f0767e](https://via.placeholder.com/12/f0767e/f0767e) `#f0767e` | Deletion highlights, errors, warnings      |
 | ![#ffb92c](https://via.placeholder.com/12/ffb92c/ffb92c) `#ffb92c` | Modified highlights                        |
+
+
+## References and Resources
+[Theme References](https://code.visualstudio.com/api/references/theme-color#text-colors)
+
+[Publishing VS Code Extensions](https://code.visualstudio.com/docs/extensions/publish-extension)
+
+[CD/CI for Extensions](https://code.visualstudio.com/api/working-with-extensions/continuous-integration)
+
+[Extension Manifesto](https://code.visualstudio.com/api/references/extension-manifest)
+
+
+[Hex Color Placeholders](https://placeholder.com/)
+
+[Visual Studio Code Marketplace Badges](https://vsmarketplacebadge.apphb.com/)
+
