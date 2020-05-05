@@ -49,6 +49,7 @@
 
 
 ## References and Resources
+
 [Theme References](https://code.visualstudio.com/api/references/theme-color#text-colors)
 
 [Publishing VS Code Extensions](https://code.visualstudio.com/docs/extensions/publish-extension)
