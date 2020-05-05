@@ -62,5 +62,7 @@
 
 [Visual Studio Code Marketplace Badges](https://vsmarketplacebadge.apphb.com/)
 
+[Badge Styling (Shields.io)](https://shields.io/)
+
 ## Plug
  <a href="https://www.instagram.com/na.wu/"><img src="https://img.shields.io/badge/Instagram-na.wu-blue.svg?style=for-the-badge&labelColor=16242F&color=0d1118&logo=instagram&logoColor=F4C3C2&logoWidth=20"/></a>
