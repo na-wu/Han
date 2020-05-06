@@ -24,11 +24,3 @@ jobs:
         args: "publish -p $VSCE_TOKEN"
       env:
         VSCE_TOKEN: ${{ secrets.VSCE_TOKEN }}
-
-    # Runs a single command using the runners shell
-    # - name: Run a one-line script
-    #   run: echo Hello, world!
-    #     with:
-    #       args: "publish -p $VSCE_TOKEN"
-    #     env:
-    #       VSCE_TOKEN: ${{ secrets.VSCE_TOKEN }}
