@@ -19,7 +19,7 @@
     <img alt="wfrwudsqpj2" src="https://vsmarketplacebadge.apphb.com/rating-star/nathanwu.han-vscode.svg?style=for-the-badge&labelColor=16242F&color=0d1118&logo=visual-studio-code&logoColor=F4C3C2&logoWidth=20" />
   </a>
 </p>
-<!--  -->
+
 ![demoimg](https://raw.githubusercontent.com/na-wu/project-han/master/images/demo.png)
 
 ## Installation
