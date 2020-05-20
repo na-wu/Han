@@ -1,6 +1,6 @@
 {
   "name": "han-vscode",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "publisher": "nathanwu",
   "engines": {
     "vscode": "^1.44.0"
