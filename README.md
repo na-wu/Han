@@ -1,6 +1,6 @@
 <p align="center">
   <img alt="Han Logo" src="https://raw.githubusercontent.com/na-wu/project-han/master/images/logo.png" 
-  width="200" />
+  width="750" />
 </p>
 <h1 align="center">
   한 - Han Theme for VS Code
