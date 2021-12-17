@@ -3,7 +3,7 @@
   width="200" />
 </p>
 <h1 align="center">
-  한 - Han Theme for VS Code
+  한 - Han for VS Code
 </h1>
 <p align="center">
   A dark blue theme
