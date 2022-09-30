@@ -47,7 +47,6 @@
 | ![#f0767e](https://via.placeholder.com/12/f0767e/f0767e) `#f0767e` | Deletion highlights, errors, warnings      |
 | ![#ffb92c](https://via.placeholder.com/12/ffb92c/ffb92c) `#ffb92c` | Modified highlights                        |
 
-
 ## References and Resources
 
 [Theme References](https://code.visualstudio.com/api/references/theme-color#text-colors)
