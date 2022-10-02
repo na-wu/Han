@@ -57,7 +57,6 @@
 
 [Extension Manifesto](https://code.visualstudio.com/api/references/extension-manifest)
 
-
 [Hex Color Placeholders](https://placeholder.com/)
 
 [Visual Studio Code Marketplace Badges](https://vsmarketplacebadge.apphb.com/)
